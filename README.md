@@ -1,2 +1,2 @@
 # Data-structure
-Data structure group homeword
+Data structure group homework
